@@ -3,5 +3,4 @@ This repository contains the necessary codes to every tasks given by the Oasis I
 
 Proj2 - Repository containing the code file for BMI calculator using Python
 
-
 Proj3 - Repository containing the code file for Random Password Generator using Python
