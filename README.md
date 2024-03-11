@@ -1,7 +1,7 @@
 # OIBSIP
 This repository contains the necessary codes to every tasks given by the Oasis InfoByte during the course of my Internship in Feb 2024
 
-Proj1 - Repository containing the code file for Voice Assistant
+Proj1 - Repository containing the code file for Voice Assistant (Maxni)
 
 Proj2 - Repository containing the code file for BMI calculator using Python
 
